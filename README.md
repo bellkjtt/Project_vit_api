@@ -6,3 +6,7 @@ https://github.com/open-mmlab/mmdetection
 
 ```cmd
 git clone https://github.com/open-mmlab/mmdetection.git
+
+
+vit.pth 파일도 다운 받아야 합니다.
+https://github.com/open-mmlab/mmdetection/tree/main/projects/ViTDet
